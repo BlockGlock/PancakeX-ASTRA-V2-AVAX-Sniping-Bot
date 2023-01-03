@@ -1,8 +1,8 @@
 <div align="center">
   <img src="pancakex.png" width="200"/>
   <h1>PancakeX</h1>
-  <h2>THIS NEW VERSION IS FOR BSC ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
-  <p>Snipe New Tokens on all Dexes within 1 millisecond</p>
+  <h2>This bot was already prepared for crosschain features so I forked it and made the changes myself. All kudos to the original author!</h2>
+  <p>Snipe New Tokens on AVAX within 1 millisecond</p>
   
   [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
